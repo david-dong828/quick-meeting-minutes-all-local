@@ -1,0 +1,8 @@
+argparse
+accelerate
+requests
+sentencepiece
+soundfile
+ollama
+openai-whisper
+sounddevice 
