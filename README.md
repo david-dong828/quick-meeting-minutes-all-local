@@ -21,8 +21,8 @@ QuickMeetingMinutes is a Python application that automatically generates meeting
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/david-dong828/QuickMeetingMinutesAllLocal.git
-cd QuickMeetingMinutesAllLocal
+git clone https://github.com/david-dong828/quick-meeting-minutes-all-local.git
+cd quick-meeting-minutes-all-local
 ```
 
 2. Install the required dependencies:
